@@ -1,12 +1,11 @@
-# Hi there 👋
+# Hi there 👋, I like to make things
 
 ## 💫 About Me:
 Hi! My name is Bear, I am a Computer Science and Engineering student. <!--add school once I get fully enrolled --> I love doing low-level programming and contributing to open-source projects. I am looking to build a career as an electrical or software engineer.
-- 🔭 I’m currently with on FRC team 2480.
-- 🌱 I’m currently learning java & engineering design.
+- 🔭 I’m currently working as an intern at Accenture.
+- 🌱 I’m currently learning java, EE & engineering design.
 - 📫 How to reach me: I haven't created a public email yet.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
 <!-- - 👯 I’m looking to collaborate on any -->
 <!-- 🤔 I’m looking for help with ...-->
 
@@ -23,7 +22,7 @@ I have not yet published any articles
 ### 💻 Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ### 🏅 Achievements:
-I will put achievments here
+I will put achievements here
 
 ## 📈 Stats
 ![](https://github-readme-stats.vercel.app/api?username=Beastr45&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>

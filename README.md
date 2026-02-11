@@ -1,8 +1,7 @@
 # Hi there 👋, I like to make things
 
 ## 💫 About Me:
-Hi! My name is Bear, I am a Computer Science and Engineering student. <!--add school once I get fully enrolled --> I love doing low-level programming and contributing to open-source projects. I am looking to build a career as an electrical or software engineer.
-- 🔭 I’m currently working as an intern at Accenture.
+<!--- 🔭 I’m currently working as an intern at Accenture.-->
 - 🌱 I’m currently learning java, EE & engineering design.
 - 📫 How to reach me: I haven't created a public email yet.
 - 😄 Pronouns: he/him
